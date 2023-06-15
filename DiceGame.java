@@ -15,8 +15,6 @@ class DiceGame{
 
 	if( total > 7) System.out.println("You won");
 	else System.out.println("You lose");
-
-	sc.close();
     }
 
 }
